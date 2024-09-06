@@ -1,2 +1,2 @@
 # DataScience
-For bosscoder notes
+Bosscoder Academy Notes
